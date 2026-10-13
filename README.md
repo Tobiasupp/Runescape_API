@@ -23,6 +23,8 @@ API-anropen kväler en anpassad `User-Agent`-header enligt OSRS Wikis riktlinjer
 
 
 
-Jag använder mig enbart av Pythons standardbibliotek så inga externa pip paket behöver installeras.
+Generellt har jag bara standard bibliotek men lägger till requests som behöver installeras.
+
+pip install requirements.txt
 
 För att köra programmet: python main.py
